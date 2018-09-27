@@ -1,0 +1,48 @@
+.hairdresser{
+  position:absolute;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 40px;
+
+}
+
+.navigation{
+  font-family: arial;
+  font-size: 14px;
+  text-align: right;
+  height: 500px;
+  width: auto;
+  background-image:url(saloon2.jpg);
+}
+
+.nav {
+  margin: 25px;
+  color: black;
+}
+
+.input{
+  margin-left: 25px;
+  margin-right: 5px;
+}
+p{
+  margin-top: 100px;
+  text-align: center;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.middle{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family:arial;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+.input{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
